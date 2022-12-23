@@ -8,7 +8,7 @@ Tento projekt je zo stránky Frontend Mentor ([NFT preview card component challe
 
 Projekt som vytvoril približne za dve a pol hodiny. Použil som HTML a CSS. Najviac času mi zabralo vytvorenie "hover" efektu nad hlavným obrázkom.
 
-#### [Odkaz na stránku s projektom](https://tomasdunik.github.io/frontend-mentor-newbie-3-column-preview-card-component/)
+#### [Odkaz na stránku s projektom](https://tomasdunik.github.io/frontend-mentor-newbie-nft-preview-card-component-main/)
 
 ## Užitočné zdroje
 
@@ -27,5 +27,5 @@ Projekt som vytvoril približne za dve a pol hodiny. Použil som HTML a CSS. Naj
 
 ## Odkazy
 
-- [Konkrétny projekt na stranke Frontend Mentor](https://www.frontendmentor.io/solutions/3column-preview-card-component-n_8y2p3C45)
+- [Konkrétny projekt na stranke Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-zhhhljGOB3)
 - [Moje ostatné projekty na stránke Frontend Mentor](https://www.frontendmentor.io/profile/WeekendsProgrammer)
