@@ -17,11 +17,11 @@ Projekt som vytvoril približne za dve a pol hodiny. Použil som HTML a CSS. Naj
 
 ## Screenshots
 
-### Desktop
+### 💻 Desktop
 
 ![](./images/screenshot-desktop.png)
 
-### Mobile
+### 📱 Mobile
 
 ![](./images/screenshot-mobile.png)
 
