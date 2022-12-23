@@ -1,0 +1,33 @@
+@media (max-width: 375px) {
+  /* ==================== Layout ==================== */
+  main {
+    width: 327px;
+    height: 543px;
+  }
+
+  .image-equilibrium {
+    width: 278px;
+  }
+
+  .card-text p {
+    margin: -4px 0 14px 0;
+  }
+
+  .creator {
+    margin: 14px 0 0 0;
+    padding-top: 16px;
+  }
+
+  .price-eth,
+  .date,
+  .creator {
+    font-size: 15px;
+  }
+
+  /* ==================== General styling ==================== */
+  h1:focus,
+  a:focus {
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+  }
+}
